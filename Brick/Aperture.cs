@@ -17,7 +17,15 @@
             this.height = height;
         }
 
-        public int Width { get; set; }
-        public int Height { get; set; }
+        public int Width
+        {
+            get => width;
+            set => width = value;
+        }
+        public int Height
+        {
+            get => height;
+            set => height = value;
+        }
     }
 }

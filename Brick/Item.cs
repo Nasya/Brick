@@ -20,8 +20,20 @@
             this.length = length;
         }
 
-        public int Width { get; set; }
-        public int Height { get; set; }
-        public int Length { get; set; }
+        public int Width
+        {
+            get => width;
+            set => width = value;
+        }
+        public int Height
+        {
+            get => height;
+            set => height = value;
+        }
+        public int Length
+        {
+            get => length;
+            set => length = value;
+        }
     }
 }

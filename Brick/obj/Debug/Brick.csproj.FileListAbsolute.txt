@@ -1,0 +1,7 @@
+c:\users\anastasiya\source\repos\Brick\Brick\bin\Debug\Brick.exe.config
+c:\users\anastasiya\source\repos\Brick\Brick\bin\Debug\Brick.exe
+c:\users\anastasiya\source\repos\Brick\Brick\bin\Debug\Brick.pdb
+c:\users\anastasiya\source\repos\Brick\Brick\obj\Debug\Brick.csprojResolveAssemblyReference.cache
+c:\users\anastasiya\source\repos\Brick\Brick\obj\Debug\Brick.csproj.CoreCompileInputs.cache
+c:\users\anastasiya\source\repos\Brick\Brick\obj\Debug\Brick.exe
+c:\users\anastasiya\source\repos\Brick\Brick\obj\Debug\Brick.pdb
